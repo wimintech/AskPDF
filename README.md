@@ -14,3 +14,4 @@
 - Streamlit in Python facilitates a user-friendly interface for intuitive tool interaction, enhancing user experience and exploration of additional features.🔑
 
 ## Working model
+![pdf reader 1](https://github.com/user-attachments/assets/688fdf7f-81b2-4345-bdd5-dac49c367d98)
